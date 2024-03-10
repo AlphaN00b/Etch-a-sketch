@@ -1,0 +1,16 @@
+#Container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 512px;
+}
+.square {
+    width: 32px;
+    height: 32px;
+    margin: 0px;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+
+.black {
+    background-color: black;
+}
